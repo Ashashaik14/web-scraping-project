@@ -9,8 +9,8 @@ This project analyzes product price distribution using web scraping and data ana
 - Jupyter Notebook
 
 ## Files
-- dataset.csv – scraped data
-- analysis.ipynb – data analysis and visualization
+- technical.csv – scraped data
+- technical(1).ipynb – data analysis and visualization
 
 ## Submitted by
 Asha
